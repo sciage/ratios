@@ -1,30 +1,19 @@
-
-{
-	"Debt-to-Equity":
-[
-	{
-		"Debt-to-Equity": 0.089,
-		 "Year": 2010
-	},
-	{
-		"Debt-to-Equity": 0.115,
-		 "Year": 2011
-	},
-	{
-		"Debt-to-Equity": 0.536,
-		 "Year": 2012
-	},
-	{
-		"Debt-to-Equity": 0.194,
-		 "Year": 2013
-	},
-	{
-		"Debt-to-Equity": 1.185,
-		 "Year": 2014
-	},
-	{
-		"Debt-to-Equity": 0.629,
-		 "Year": 2015
-	}
-]
-}
+[{
+	"value": 0.089,
+	"date": "2010/01/01"
+}, {
+	"value": 0.115,
+	"date": "2011/01/01"
+}, {
+	"value": 0.536,
+	"date": "2012/01/01"
+}, {
+	"value": 0.194,
+	"date": "2013/01/01"
+}, {
+	"value": 1.185,
+	"date": "2014/01/01"
+}, {
+	"value": 0.629,
+	"date": "2015/01/01"
+}]
