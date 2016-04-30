@@ -1,19 +1,29 @@
-[{
-	"value": 0.089,
-	"date": "2010/01/01"
-}, {
-	"value": 0.115,
-	"date": "2011/01/01"
-}, {
-	"value": 0.536,
-	"date": "2012/01/01"
-}, {
-	"value": 0.194,
-	"date": "2013/01/01"
-}, {
-	"value": 1.185,
-	"date": "2014/01/01"
-}, {
-	"value": 0.629,
-	"date": "2015/01/01"
-}]
+{
+	"contents": [{
+			"category": "Furniture",
+			"region": "West",
+			"monthlySales":
+
+				[{
+				"month": 2010,
+				"sales": 0.089
+			}, {
+				"month": 2011,
+				"sales": 0.115
+			}, {
+				"month": 2012,
+				"sales": 0.536
+			}, {
+				"month": 2013,
+				"sales": 0.194
+			}, {
+				"month": 2014,
+				"sales": 1.185
+			}, {
+				"month": 2015,
+				"sales": 0.629
+			}]
+		}
+
+	]
+}
