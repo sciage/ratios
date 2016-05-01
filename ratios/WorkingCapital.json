@@ -1,30 +1,26 @@
-
-{
-	"Working Capital":
 [
-	{
-		"Working Capital": 2939932.28,
-		 "Year": 2010
-	},
-	{
-		"Working Capital": 14573033.43,
-		 "Year": 2011
-	},
-	{
-		"Working Capital": 29107072.12,
-		 "Year": 2012
-	},
-	{
-		"Working Capital": 44842578.76,
-		 "Year": 2013
-	},
-	{
-		"Working Capital": 84727962.35,
-		 "Year": 2014
-	},
-	{
-		"Working Capital": 46059383.76,
-		 "Year": 2015
-	}
+  {
+    "year": "2010",
+    "capital": 2939932.28
+  },
+  {
+    "year": "2011",
+    "capital": 14573033.43
+  },
+  {
+    "year": "2012",
+    "capital": 29107072.12
+  },
+  {
+    "year": "2013",
+    "capital": 44842578.76
+  },
+  {
+    "year": "2014",
+    "capital": 84727962.35
+  },
+  {
+    "year": "2015",
+    "capital": 46059383.76
+  }
 ]
-}
